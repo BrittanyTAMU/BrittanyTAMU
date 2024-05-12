@@ -2,9 +2,14 @@
 
 
 [Twitter](https://twitter.com/BRITTANYWA30570)
+[LinkedIn](linkedin.com/in/brittanywashington24)
+[Medium](medium.com/@bgw26 )
+[Resume](brittanyw.netlify.app/)
 
+Previously worked as a Civil Engineer, currently a Software Engineer. I am motivated by the power of technology as a tool for postive change. Worked on many different software in the field of civil engineering and I was dedicated on making the software better and pratical to use for future civil engineers. 
 
-[![Twitter](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_180x180.jpg)](https://twitter.com/BRITTANYWA30570)
+See [my website](brittanyw.netlify.app/) for more information!
+
 
 
 
