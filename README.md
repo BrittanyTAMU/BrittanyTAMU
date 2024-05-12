@@ -3,8 +3,10 @@
 [Twitter])](https://twitter.com/BRITTANYWA30570)
 
 (https://twitter.com/BRITTANYWA30570)
-[![Twitter](![image](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/a43873f3-5d76-417a-a4af-59d548a249ce)
-)](https://twitter.com/BRITTANYWA30570)
+
+[![Twitter](![twitter_x_new_logo_x_rounded_icon_256078](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/fc24c629-76bf-47cb-b1d0-824274a29f13))](https://twitter.com/BRITTYWA30570)
+
+
 
 
 
