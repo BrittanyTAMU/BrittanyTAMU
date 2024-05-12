@@ -4,8 +4,7 @@
 
 (https://twitter.com/BRITTANYWA30570)
 
-[![Twitter]([https://twitter.com/BRITTYWA30570/twitter_logo.png](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg))](https://twitter.com/BRITTYWA30570)
-
+[![Twitter](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg)](https://twitter.com/BRITTANYWA30570)
 
 
 
