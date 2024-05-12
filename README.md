@@ -1,5 +1,6 @@
 ![White Minimalist Profile LinkedIn Banner (9)](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/26b7911c-5b02-417c-9d25-b6a2687d5ce4)
-[Twittert](Button Image URL)](https://twitter.com/BRITTANYWA30570)
+
+[Twitter])](https://twitter.com/BRITTANYWA30570)
 
 (https://twitter.com/BRITTANYWA30570)
 
