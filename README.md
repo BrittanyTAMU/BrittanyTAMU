@@ -12,21 +12,21 @@ See [my website](brittanyw.netlify.app/) for more information!
 
 
 # Projects
-## Needle and Threads Tailor Website- Actual Client
+## Needle and Threads Tailor Website- Client
 ![ThreadGIF](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/aebfca46-eddb-49b7-9bfb-f63237ec3882)
 
 
 [Website](https://needleandthread.netlify.app)
 
 
-## Judith Ellis Model Portfolio - Actual Client
+## Judith Ellis Model Portfolio - Client
 ![judyGIF](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/73aee58d-32ba-44dd-9eec-9a9e2b2414a0)
 
 
 [Website](https://judithellis17.wixsite.com/2024)
 
 
-## Bayou Bites Website- Actual Client
+## Bayou Bites Website- Client
 ![resGIF](https://github.com/BrittanyTAMU/BrittanyTAMU/assets/150837663/a371d77d-9f52-49b5-8947-1be52d8e2d4e)
 
 
